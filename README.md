@@ -1,6 +1,6 @@
 <!-- Banner/Imagem Opcional -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vitin-hz/vitin77/main/banner.png" alt="Banner do Vitin-hz" width="100%" />
+  <img src="https://github.com/Vitin-hz/Vitin-hz/blob/main/ft.x.jpeg" alt="Banner do Vitin-hz" width="100%" />
 </p>
 
 # 👋 Olá, eu sou o Vitin-hz!
